@@ -1,18 +1,18 @@
-# [Nome do projeto]
+# [Projeto Pet Gets]
 
 [Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.]
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1]
-* [Nome completo do aluno 2]
-* [Nome completo do aluno 3]
-* [Nome completo do aluno 4]
+* [Paulo Henrique Braga Pessoa]
+* [João Pedro de Meireles Alves]
+* [Bernado Augusto Amorim Vieira]
+* [Vitor Digenova Stoppa Lana]
 
 ## Professores responsáveis
 
-* [Nome completo do professor 1]
-* [Nome completo do professor 2]
+* [Max do Val Machado]
+* [Luciana Mara Freitas Diniz]
 
 ## Instruções de utilização
 
